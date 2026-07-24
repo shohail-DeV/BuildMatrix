@@ -17,7 +17,6 @@ Instead of manually reviewing hundreds of Jenkins builds across multiple servers
   * **Stable**
   * **Back to Normal**
 * ❌ Track unsuccessful builds separately
-
   * Broken
   * Aborted
   * Failed
