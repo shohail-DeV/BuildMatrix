@@ -136,7 +136,7 @@ Projects containing multiple Jenkins jobs are automatically grouped.
 Example:
 
 ```
-CSM Africa
+CBS Africa
 ├── Admin API
 ├── Frontend Admin
 └── Website
