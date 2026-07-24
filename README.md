@@ -298,9 +298,10 @@ Feel free to open an issue or submit a pull request.
 
 ---
 
-# 📄 License
+# 📄 Screenshots
 
-This project is licensed under the MIT License.
+<img width="955" height="346" alt="Home" src="https://github.com/user-attachments/assets/b6638037-3937-4158-a52d-90abc3c71336" />
+
 
 ---
 
@@ -319,4 +320,6 @@ It helps others discover the project and motivates further improvements.
 DevOps • CI/CD • Cloud • Linux • Automation
 
 Passionate about building practical tools that eliminate repetitive engineering work and improve developer productivity.
+
+
 
